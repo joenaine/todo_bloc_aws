@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-qazappdatabase-staging-132046-authRole",
+      "UnauthRoleArn": "arn:aws:iam::170741476407:role/amplify-qazappdatabase-staging-132046-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::170741476407:role/amplify-qazappdatabase-staging-132046-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-qazappdatabase-staging-132046-deployment",
+      "UnauthRoleName": "amplify-qazappdatabase-staging-132046-unauthRole",
+      "StackName": "amplify-qazappdatabase-staging-132046",
+      "StackId": "arn:aws:cloudformation:us-west-2:170741476407:stack/amplify-qazappdatabase-staging-132046/e2e915f0-2515-11ec-89ff-06c596dc6b39",
+      "AmplifyAppId": "dkmjcd70cv55o"
+    },
+    "categories": {
+      "auth": {
+        "qazappdatabasec0b8c251": {}
+      }
+    }
+  }
+}

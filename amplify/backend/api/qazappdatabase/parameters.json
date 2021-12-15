@@ -1,0 +1,11 @@
+{
+  "AppSyncApiName": "qazappdatabase",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthCognitoUserPoolId": {
+    "Fn::GetAtt": [
+      "authqazappdatabasec0b8c251",
+      "Outputs.UserPoolId"
+    ]
+  }
+}
